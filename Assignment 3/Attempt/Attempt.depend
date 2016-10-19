@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472639386 source:/mnt/Personal/Yandex/IITG/CS201 LAB Assignments/Assignment 3/Attempt/main.cpp
+	<iostream>
+	<stdlib.h>
+	<climits>
+	<utility>
+	<string.h>
+	<vector>
+

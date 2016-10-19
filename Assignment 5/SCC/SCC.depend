@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1473502008 source:/mnt/Personal/DDP/Competitive Coding/Code Chef/Contests/SEPT Long 2016/SCC/main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<stack>
+	<stdio.h>
+
+1473502286 source:/mnt/Personal/Yandex/IITG/CS201 LAB Assignments/Assignment 5/SCC/main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<stack>
+	<stdio.h>
+

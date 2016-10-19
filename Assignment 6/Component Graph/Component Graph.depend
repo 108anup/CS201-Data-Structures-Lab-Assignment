@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475661416 source:e:\yandex\iitg\cs201 lab assignments\assignment 6\component graph\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<climits>
+	<stdio.h>
+

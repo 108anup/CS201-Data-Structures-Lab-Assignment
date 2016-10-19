@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473490514 source:e:\yandex\iitg\cs201 lab assignments\assignment 5\mark edges\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<stdio.h>
+

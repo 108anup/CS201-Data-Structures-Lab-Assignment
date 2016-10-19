@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1471689707 source:/home/anup/Yandex.Disk/IITG/CS201 LAB Assignments/Assignment 2/Attempt/main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+
+1472067799 source:/mnt/Personal/Yandex/IITG/CS201 LAB Assignments/Assignment 2/Attempt/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<utility>
+	<algorithm>
+

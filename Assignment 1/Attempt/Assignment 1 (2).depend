@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1471079589 source:/home/anup/CS201 LAB Assignments/Assignment 1/main.cpp
+	<iostream>
+
+1471079589 
+
+1471088813 source:e:\yandex\iitg\cs201 lab assignments\assignment 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
+1471088813 
+
+1471452969 source:/mnt/Personal/Yandex/IITG/CS201 LAB Assignments/Assignment 1/Attempt/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+
