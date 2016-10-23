@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476891354 source:e:\yandex\iitg\cs201 lab assignments\assignment 7\offline min debug\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
