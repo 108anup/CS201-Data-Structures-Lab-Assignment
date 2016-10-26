@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476956172 source:/home/anup/Yandex.Disk/IITG/CS201 LAB Assignments/Assignment 8/Attempt/main.cpp
+	<iostream>
+	<vector>
+	<climits>
+	<fstream>
+
