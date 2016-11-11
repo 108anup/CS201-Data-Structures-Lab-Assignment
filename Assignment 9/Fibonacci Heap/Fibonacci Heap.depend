@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1477510579 source:e:\yandex\iitg\cs201 lab assignments\assignment 8\fibonacci heap\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+
+1478425109 
+
+1478425109 source:e:\yandex\iitg\cs201 lab assignments\assignment 9\fibonacci heap\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<stdio.h>
+
+1478886317 source:/mnt/E/Yandex/IITG/CS201 LAB Assignments/Assignment 9/Fibonacci Heap/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<stdio.h>
+

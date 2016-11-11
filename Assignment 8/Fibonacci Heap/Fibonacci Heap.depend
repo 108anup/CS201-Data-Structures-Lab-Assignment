@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477510579 source:e:\yandex\iitg\cs201 lab assignments\assignment 8\fibonacci heap\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+

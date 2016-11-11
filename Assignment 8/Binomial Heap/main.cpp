@@ -370,7 +370,7 @@ int main()
 //       h.insert(20-i+1);
 //    h.showHeap();
 
-    //freopen("in.txt","r",stdin);
+    freopen("in.txt","r",stdin);
 
 
     /**
@@ -382,7 +382,7 @@ int main()
     char ch='\0';
     BHeap h;
 
-    bool verbose = true;
+    bool verbose = false;
     bool eminverbose = true;
     int x;
     while(true){

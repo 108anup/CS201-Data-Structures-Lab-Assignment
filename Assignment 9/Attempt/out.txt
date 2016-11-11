@@ -1,0 +1,155 @@
+
+First:
+
+Root: 15 , 0 , 0
+93 , 0 , 0
+86 , 0 , 0
+83 , 0 , 0
+77 , 0 , 0
+
+After Linking:
+
+Value:	15
+Children:
+
+....Value:	93
+....Children:
+
+Sibling:
+
+Value:	86
+Children:
+
+Sibling:
+
+Value:	83
+Children:
+
+Sibling:
+
+Value:	77
+Children:
+
+Second:
+
+Root: 21 , 0 , 0
+49 , 0 , 0
+92 , 0 , 0
+86 , 0 , 0
+35 , 0 , 0
+
+Combine:
+
+Value:	15
+Children:
+
+....Value:	93
+....Children:
+
+Sibling:
+
+Value:	21
+Children:
+
+Sibling:
+
+Value:	49
+Children:
+
+Sibling:
+
+Value:	92
+Children:
+
+Sibling:
+
+Value:	86
+Children:
+
+Sibling:
+
+Value:	35
+Children:
+
+Sibling:
+
+Value:	86
+Children:
+
+Sibling:
+
+Value:	83
+Children:
+
+Sibling:
+
+Value:	77
+Children:
+
+Getting Num in Root List:	9
+Third
+
+Root: 27 , 0 , 0
+90 , 0 , 0
+62 , 0 , 0
+
+Value:	15
+Children:
+
+....Value:	93
+....Children:
+
+....Sibling:
+
+....Value:	90
+....Children:
+
+....Sibling:
+
+....Value:	62
+....Children:
+
+....Sibling:
+
+....Value:	27
+....Children:
+
+Sibling:
+
+Value:	21
+Children:
+
+Sibling:
+
+Value:	49
+Children:
+
+Sibling:
+
+Value:	92
+Children:
+
+Sibling:
+
+Value:	86
+Children:
+
+Sibling:
+
+Value:	35
+Children:
+
+Sibling:
+
+Value:	86
+Children:
+
+Sibling:
+
+Value:	83
+Children:
+
+Sibling:
+
+Value:	77
+Children:

@@ -1,0 +1,250 @@
+Value: 470, Degree: 1
+Children:
+
+.......Value: 480, Degree: 0
+.......Children:
+..............None
+
+Sibling:
+
+Value: 467, Degree: 2
+Children:
+
+.......Value: 472, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 476, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 462, Degree: 3
+Children:
+
+.......Value: 464, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 478, Degree: 2
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 486, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 465, Degree: 4
+Children:
+
+.......Value: 505, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 469, Degree: 3
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 482, Degree: 2
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 473, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 494, Degree: 0
+Children:
+.......None
+
+Sibling:
+
+Value: 468, Degree: 3
+Children:
+
+.......Value: 502, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 481, Degree: 2
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 501, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 466, Degree: 2
+Children:
+
+.......Value: 484, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 475, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 477, Degree: 0
+Children:
+.......None
+
+Sibling:
+
+Value: 463, Degree: 1
+Children:
+
+.......Value: 488, Degree: 0
+.......Children:
+..............None
+
+########################################Count Me#####:	25
+
+Extracted is:	461Final Count: 46
+
+
+Value: 462, Degree: 5
+Children:
+
+.......Value: 464, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 465, Degree: 4
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 468, Degree: 3
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 478, Degree: 2
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 486, Degree: 1
+.......Children:
+..............None
+
+Sibling:
+
+Value: 494, Degree: 0
+Children:
+.......None
+
+Sibling:
+
+Value: 470, Degree: 1
+Children:
+
+.......Value: 480, Degree: 0
+.......Children:
+..............None
+
+Sibling:
+
+Value: 467, Degree: 2
+Children:
+
+.......Value: 472, Degree: 0
+.......Children:
+..............None
+
+.......Sibling:
+
+.......Value: 476, Degree: 1
+.......Children:
+..............None
+###########$$$$$$$$$$$$$$$############Count:	12
+
+
+Value: 462, Degree: 5
+Value: 494, Degree: 0
+Value: 470, Degree: 1
+Value: 467, Degree: 2
+Extracted is:	462Final Count: 45
+
+Extracted is:	464Final Count: 44
+
+Extracted is:	465Final Count: 43
+
+Extracted is:	468Final Count: 42
+
+Extracted is:	469Final Count: 41
+
+Extracted is:	470Final Count: 40
+
+Extracted is:	471Final Count: 39
+
+Extracted is:	473Final Count: 38
+
+Extracted is:	474Final Count: 37
+
+Extracted is:	478Final Count: 36
+
+Extracted is:	479Final Count: 35
+
+Extracted is:	480Final Count: 34
+
+Extracted is:	486Final Count: 33
+
+Extracted is:	487Final Count: 32
+
+Extracted is:	489Final Count: 31
+
+Extracted is:	491Final Count: 30
+
+Extracted is:	493Final Count: 29
+
+Extracted is:	494Final Count: 28
+
+Extracted is:	496Final Count: 27
+
+Extracted is:	497Final Count: 26
+
+Extracted is:	499Final Count: 25
+
+Extracted is:	501Final Count: 24
+
+Extracted is:	502Final Count: 23
+
+Extracted is:	505Final Count: 22
+
+Extracted is:	506Final Count: 21
+
+Extracted is:	507Final Count: 20
